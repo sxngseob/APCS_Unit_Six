@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class SpellChecker {
 
+    //
     public static String[] getDictionary() throws IOException {
 
         String[] words = new String[61336];
